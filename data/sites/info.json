@@ -1,0 +1,6 @@
+{
+  "bangumi": {
+    "title": "番组计划",
+    "urlTemplate": "https://bangumi.tv/subject/{{id}}"
+  }
+}

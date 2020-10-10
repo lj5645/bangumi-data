@@ -1,0 +1,6 @@
+{
+  "dmhy": {
+    "title": "动漫花园",
+    "urlTemplate": "https://share.dmhy.org/topics/list?keyword={{id}}"
+  }
+}

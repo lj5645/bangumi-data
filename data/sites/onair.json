@@ -1,0 +1,46 @@
+{
+  "acfun": {
+    "title": "AcFun",
+    "urlTemplate": "https://www.acfun.cn/bangumi/aa{{id}}"
+  },
+  "bilibili": {
+    "title": "哔哩哔哩",
+    "urlTemplate": "https://www.bilibili.com/bangumi/media/md{{id}}/"
+  },
+  "sohu": {
+    "title": "搜狐视频",
+    "urlTemplate": "https://tv.sohu.com/{{id}}"
+  },
+  "youku": {
+    "title": "优酷",
+    "urlTemplate": "https://list.youku.com/show/id_z{{id}}.html"
+  },
+  "qq": {
+    "title": "腾讯视频",
+    "urlTemplate": "https://v.qq.com/detail/{{id}}.html"
+  },
+  "iqiyi": {
+    "title": "爱奇艺",
+    "urlTemplate": "https://www.iqiyi.com/{{id}}.html"
+  },
+  "letv": {
+    "title": "乐视",
+    "urlTemplate": "https://www.le.com/comic/{{id}}.html"
+  },
+  "pptv": {
+    "title": "PPTV",
+    "urlTemplate": "http://v.pptv.com/page/{{id}}.html"
+  },
+  "mgtv": {
+    "title": "芒果tv",
+    "urlTemplate": "https://www.mgtv.com/h/{{id}}.html"
+  },
+  "nicovideo": {
+    "title": "Niconico",
+    "urlTemplate": "https://ch.nicovideo.jp/{{id}}"
+  },
+  "netflix": {
+    "title": "Netflix",
+    "urlTemplate": "https://www.netflix.com/title/{{id}}"
+  }
+}
